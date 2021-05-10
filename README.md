@@ -29,6 +29,16 @@ It will create 3 new triangles and it will delete the orignal triangle.
 Hence, addition of each point will add 2 new triangles everytime.  
 So, the problem is linear and hence can be formulated in the equation.  
 
+### *Fun Fact :*
+We can validate this formula for the structure of **Fullerene C60 - Allotrope of carbon.**  
+It has 20 hexagoans and 12 pentagons . So a convex hexagon creates 4 triangles and convex pentagon creates 3 triangle.
+
+                Total number of triangles = 20*4 + 12*3 = 116
+
+Using analytical equation,  
+
+                Total number of triangles = 2*60 - 4 = 116
+
 ## Solution 2 : Computational approach  
 
 <p align="center">
