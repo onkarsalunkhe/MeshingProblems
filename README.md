@@ -48,6 +48,10 @@ ids: trias[3 ∗ i], trias[3 ∗ i + 1], and trias[3 ∗ i + 2], ∀0 ≤ i ≤ 
 Vector adj stores triangle ids, such that, adj[3 ∗ i], adj[3 ∗ i + 1], and adj[3 ∗ i+ 2] store the triangle id opposite of the first, second, and third vertex of triangle ti, respectively.  
 After swapping the vectors trias and adj has to be updated.  
 
+<p align="center">
+   <img width="400" height="300" src="https://user-images.githubusercontent.com/29740347/117624948-7d6aab80-b143-11eb-9eba-42250107562e.PNG">
+</p>
+
 ## Solution : Computational approach  
 
 ## Flowchart  
