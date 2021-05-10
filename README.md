@@ -39,6 +39,7 @@ So, the problem is linear and hence can be formulated in the equation.
 <p align="center">
    <img width="400" height="700" src="https://user-images.githubusercontent.com/29740347/117618918-9d4aa100-b13c-11eb-9124-7849498f0ace.png">
 </p>
+
 ## Problem 2  
 Given a triangular planar mesh. Incident trianlges are thoose who shares an edge.  
 The task is to swap the edge and update the mesh.   
