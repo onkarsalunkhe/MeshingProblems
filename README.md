@@ -29,9 +29,21 @@ It will create 3 new triangles and it will delete the orignal triangle.
 Hence, addition of each point will add 2 new triangles everytime.  
 So, the problem is linear and hence can be formulated in the equation.  
 
-### *Fun Fact :*
+### *Fun Fact :*  
+
+<p align="center">
+   <img width="300" height="300" src="https://user-images.githubusercontent.com/29740347/117783788-de13ea00-b210-11eb-99db-c7c22e1b38fc.png">
+</p>
+
 We can validate this formula for the structure of **Fullerene C60 - Allotrope of carbon.**  
-It has 20 hexagoans and 12 pentagons . So a convex hexagon creates 4 triangles and convex pentagon creates 3 triangle.
+It has 20 hexagoans and 12 pentagons.  
+
+<p align="center">
+   <img width="250" height="250" src="https://user-images.githubusercontent.com/29740347/117783966-0d2a5b80-b211-11eb-8199-25d2fca7e7e0.png">
+   <img width="250" height="250" src="https://user-images.githubusercontent.com/29740347/117783968-0dc2f200-b211-11eb-8d36-b4cdee0702fe.png">
+</p>
+
+A convex hexagon creates 4 triangles and convex pentagon creates 3 triangle.
 
                 Total number of triangles = 20*4 + 12*3 = 116
 
